@@ -45,7 +45,7 @@ void setup()
   // Setup MQTT subscribe callback
   //
   //setRcvValueCallback(onReceiveValue);
-00
+
 } // void setup()
 
 void loop()
